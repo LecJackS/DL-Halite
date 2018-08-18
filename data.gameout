@@ -1,0 +1,154 @@
+Game constants: all default
+python MyBot-1.py
+python MyBot-2.py
+Seed: 962501750 Dimensions: 360x240
+Init Message sent to player 1.
+Init Message sent to player 0.
+Init Message received from player 0, Using Theano backend..
+Init Message received from player 1, Using Theano backend..
+Turn 1
+ERROR: Bot #1: Received invalid character 'Traceback (most recent call last):T'. (at character 1.)
+Input received from bot:
+Traceback (most recent call last):
+^
+ERROR: Bot #0: Received invalid character 'Traceback (most recent call last):T'. (at character 1.)
+Input received from bot:
+Traceback (most recent call last):
+^
+Skipping replay (bot errored on first turn).
+Player #0, Using Theano backend., came in rank #1 and was last alive on frame #0, producing 0 ships and dealing 0 damage!
+Player #1, Using Theano backend., came in rank #2 and was last alive on frame #0, producing 0 ships and dealing 0 damage!
+Game constants: all default
+Seed: 514483695 Dimensions: 360x240
+Init Message sent to player 0.
+Init Message sent to player 1.
+Init Message received from player 0, python: can't open file 'MyBot.
+Init Message received from player 1, python: can't open file 'MyBot.
+Turn 1
+Player 0 is dead
+Player 1 is dead
+Skipping replay (bot errored on first turn).
+Player #0, python: can't open file 'MyBot, came in rank #1 and was last alive on frame #0, producing 0 ships and dealing 0 damage!
+Player #1, python: can't open file 'MyBot, came in rank #2 and was last alive on frame #0, producing 0 ships and dealing 0 damage!
+Game constants: all default
+Seed: 519385149 Dimensions: 360x240
+Init Message sent to player 0.
+Init Message sent to player 1.
+Init Message received from player 0, python: can't open file 'MyBot.
+Init Message received from player 1, python: can't open file 'MyBot.
+Turn 1
+Player 0 is dead
+Player 1 is dead
+Skipping replay (bot errored on first turn).
+Player #0, python: can't open file 'MyBot, came in rank #1 and was last alive on frame #0, producing 0 ships and dealing 0 damage!
+Player #1, python: can't open file 'MyBot, came in rank #2 and was last alive on frame #0, producing 0 ships and dealing 0 damage!
+Game constants: all default
+Seed: 523736943 Dimensions: 360x240
+Init Message sent to player 0.
+Init Message sent to player 1.
+Init Message received from player 1, python: can't open file 'MyBot.
+Init Message received from player 0, python: can't open file 'MyBot.
+Turn 1
+Player 0 is dead
+Player 1 is dead
+Skipping replay (bot errored on first turn).
+Player #0, python: can't open file 'MyBot, came in rank #2 and was last alive on frame #0, producing 0 ships and dealing 0 damage!
+Player #1, python: can't open file 'MyBot, came in rank #1 and was last alive on frame #0, producing 0 ships and dealing 0 damage!
+Game constants: all default
+Seed: 528108202 Dimensions: 360x240
+Init Message sent to player 0.
+Init Message sent to player 1.
+Init Message received from player 0, python: can't open file 'MyBot.
+Init Message received from player 1, python: can't open file 'MyBot.
+Turn 1
+Player 0 is dead
+Player 1 is dead
+Skipping replay (bot errored on first turn).
+Player #0, python: can't open file 'MyBot, came in rank #1 and was last alive on frame #0, producing 0 ships and dealing 0 damage!
+Player #1, python: can't open file 'MyBot, came in rank #2 and was last alive on frame #0, producing 0 ships and dealing 0 damage!
+Game constants: all default
+Seed: 532467321 Dimensions: 360x240
+Init Message sent to player 0.
+Init Message sent to player 1.
+Init Message received from player 0, python: can't open file 'MyBot.
+Init Message received from player 1, python: can't open file 'MyBot.
+Turn 1
+Player 0 is dead
+Player 1 is dead
+Skipping replay (bot errored on first turn).
+Player #0, python: can't open file 'MyBot, came in rank #1 and was last alive on frame #0, producing 0 ships and dealing 0 damage!
+Player #1, python: can't open file 'MyBot, came in rank #2 and was last alive on frame #0, producing 0 ships and dealing 0 damage!
+Game constants: all default
+Seed: 686266743 Dimensions: 360x240
+Init Message sent to player 0.
+Init Message sent to player 1.
+Init Message received from player 0, Using TensorFlow backend..
+Init Message received from player 1, Using TensorFlow backend..
+Turn 1
+ERROR: Bot #0: Received invalid character 'Traceback (most recent call last):T'. (at character 1.)
+Input received from bot:
+Traceback (most recent call last):
+^
+ERROR: Bot #1: Received invalid character 'Traceback (most recent call last):T'. (at character 1.)
+Input received from bot:
+Traceback (most recent call last):
+^
+Player 0 is dead
+Player 1 is dead
+Skipping replay (bot errored on first turn).
+Player #0, Using TensorFlow backend., came in rank #1 and was last alive on frame #0, producing 0 ships and dealing 0 damage!
+Player #1, Using TensorFlow backend., came in rank #2 and was last alive on frame #0, producing 0 ships and dealing 0 damage!
+Game constants: all default
+Seed: 692558261 Dimensions: 360x240
+Init Message sent to player 0.
+Init Message sent to player 1.
+Init Message received from player 0, Using TensorFlow backend..
+Init Message received from player 1, Using TensorFlow backend..
+Turn 1
+ERROR: Bot #0: Received invalid character 'Traceback (most recent call last):T'. (at character 1.)
+Input received from bot:
+Traceback (most recent call last):
+^
+ERROR: Bot #1: Received invalid character 'Traceback (most recent call last):T'. (at character 1.)
+Input received from bot:
+Traceback (most recent call last):
+^
+Player 0 is dead
+Bot 0 was killed.
+Here is the rest of its output (if any):
+ 0)
+--- End bot output ---
+Player 1 is dead
+Bot 1 was killed.
+Here is the rest of its output (if any):
+ file or directory', flags = 0, o_flags = 0)
+--- End bot output ---
+Skipping replay (bot errored on first turn).
+Player #0, Using TensorFlow backend., came in rank #1 and was last alive on frame #0, producing 0 ships and dealing 0 damage!
+Player #1, Using TensorFlow backend., came in rank #2 and was last alive on frame #0, producing 0 ships and dealing 0 damage!
+Game constants: all default
+Seed: 699142246 Dimensions: 360x240
+Init Message sent to player 0.
+Init Message sent to player 1.
+Init Message received from player 1, Using TensorFlow backend..
+Init Message received from player 0, Using TensorFlow backend..
+Turn 1
+ERROR: Bot #1: Received invalid character 'Traceback (most recent call last):T'. (at character 1.)
+Input received from bot:
+Traceback (most recent call last):
+^
+ERROR: Bot #0: Received invalid character 'Traceback (most recent call last):T'. (at character 1.)
+Input received from bot:
+Traceback (most recent call last):
+^
+Player 0 is dead
+Bot 0 was killed.
+Here is the rest of its output (if any):
+
+--- End bot output ---
+Player 1 is dead
+Skipping replay (bot errored on first turn).
+Player #0, Using TensorFlow backend., came in rank #2 and was last alive on frame #0, producing 0 ships and dealing 0 damage!
+Player #1, Using TensorFlow backend., came in rank #1 and was last alive on frame #0, producing 0 ships and dealing 0 damage!
+Game constants: all default
+Seed: 705886887 Dimensions: 360x240
